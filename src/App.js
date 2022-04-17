@@ -6,7 +6,7 @@ import { Features } from "./components/Features";
 import { Hero } from "./components/Hero";
 import { Navbar } from "./components/Navbar";
 import "./css/output.css";
-import { Footer } from "./Footer";
+import { Footer } from "./components/Footer";
 
 export default function App() {
   return (
