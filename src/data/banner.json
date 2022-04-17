@@ -1,0 +1,18 @@
+[
+  {
+    "id": 1,
+    "image": "/images/slider-1.jpeg"
+  },
+  {
+    "id": 2,
+    "image": "/images/slider-2.jpeg"
+  },
+  {
+    "id": 3,
+    "image": "/images/slider-3.jpeg"
+  },
+  {
+    "id": 4,
+    "image": "/images/slider-4.jpg"
+  }
+]

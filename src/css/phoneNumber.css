@@ -1,0 +1,29 @@
+:root {
+  --PhoneInputCountryFlag-height: 40px;
+}
+
+.PhoneInput {
+  width: 100%;
+}
+
+.PhoneInputInput {
+  flex: 1;
+  height: 48px;
+  border: 2px solid #ccc;
+  border-radius: 0.25rem;
+  padding-left: 0.75rem;
+  transition: all 0.3s linear;
+}
+
+.PhoneInputInput:focus {
+  outline: none !important;
+  border: 2px solid rgb(93, 62, 188);
+}
+
+.PhoneInputInput:hover {
+  border: 2px solid rgb(93, 62, 188);
+}
+.PhoneInputCountrySelectArrow {
+  width: 8px;
+  height: 8px;
+}
